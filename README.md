@@ -105,7 +105,7 @@ maryamweb-2024/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mokashmiri/maryamweb-2024.git
+git clone https://github.com/Mokeshmiri/maryamweb-2024.git
 cd maryamweb-2024
 ```
 
